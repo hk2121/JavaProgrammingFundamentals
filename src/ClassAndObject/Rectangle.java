@@ -23,7 +23,7 @@ public class Rectangle {
 	
 
 	public int calculateRectangle() {
-		int ans = length * breadth;
+		int ans = length * breadth; 
 		return ans;
 	}
 
