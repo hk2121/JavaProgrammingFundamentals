@@ -20,6 +20,7 @@ public class Rectangle {
 	public void setBreadth(int breadth) {
 		this.breadth = breadth;
 	}
+	
 
 	public int calculateRectangle() {
 		int ans = length * breadth;
