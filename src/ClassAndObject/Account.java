@@ -3,7 +3,7 @@ package ClassAndObject;
 public class Account {
 	private double balance = 500.00;
 
-	//created method 
+	// created method
 	public double getbalance(int x) {
 		return balance;
 	}
